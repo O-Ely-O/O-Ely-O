@@ -1,4 +1,4 @@
-![alt text](./images/top.svg)
+![alt text](./images/toplayer.svg)
 
 ## Hi there 👋
 
