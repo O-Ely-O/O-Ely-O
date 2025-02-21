@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="1440" height="490" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" class="transition duration-300 ease-in-out delay-150">
+ <defs>
+  <linearGradient id="gradient" x1="0%" x2="100%" y1="50%" y2="50%">
+   <stop offset="5%" stop-color="#5a77fa"/>
+   <stop offset="95%" stop-color="#4264fb"/>
+  </linearGradient>
+ </defs>
+ <g class="layer">
+  <title>Layer 1</title>
+  <path class="transition-all duration-300 ease-in-out delay-150 path-0" d="m0,225.5l0,-192.06c168.93,29.29 337.87,58.58 488,47.86c150.13,-10.72 281.47,-61.44 437,-76.09c155.53,-14.65 335.27,6.79 515,28.23l0,192.06l-1440,0z" fill="url(#gradient)" fill-opacity="0.8" id="svg_1" stroke-width="0" transform="rotate(180 720 112.949)"/>
+ </g>
+</svg>
