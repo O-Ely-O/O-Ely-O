@@ -1,22 +1,11 @@
 ![alt text](./images/toplayer.svg)
-
+<!-- Greeting -->
+[![Linkedin](https://img.shields.io/badge/-cianojameselliot-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/james-elliot-ciano-4b2628187)
+[![Gmail](https://img.shields.io/badge/-cianojameselliot@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:cianojameselliot@gmail.com)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=O-Ely-O.O-Ely-O" />
-
+<!--Introduction -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+James!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=550&height=70&duration=4000&letterSpacing=2px&lines=Hi+There!+;+I'm+James!+👋;" />
 </h1>
-<!--
-**O-Ely-O/O-Ely-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 ![alt text](./images/btmlayer.svg)
