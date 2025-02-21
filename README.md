@@ -1,7 +1,10 @@
 ![alt text](./images/toplayer.svg)
 
-## Hi there 👋
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=O-Ely-O.O-Ely-O" />
 
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+James!;" />
+</h1>
 <!--
 **O-Ely-O/O-Ely-O** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +19,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
 ![alt text](./images/btmlayer.svg)
