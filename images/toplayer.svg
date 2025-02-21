@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<svg width="1440" height="320" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg">
+ <g class="layer">
+  <title>Layer 1</title>
+  <path d="m1.35,276l60,-6.48c60,-6.97 181,-51.2 301,-71.14c120,-19.2 245,5.88 359,-46.29c114,-52.17 240,-71.8 360,-65.32c120,6.97 240,58.35 300,84.89l60,26.05l0,-195.71l-60,0c-60,0 -180,0 -300,0c-120,0 -240,0 -360,0c-120,0 -240,0 -360,0c-120,0 -240,0 -300,0l-60,0l0,274z" fill="url(#svg_2)" id="svg_1"/>
+ </g>
+ <defs>
+  <linearGradient id="svg_2">
+   <stop id="jq_stop_9016" offset="0" stop-color="#0099ff"/>
+   <stop id="jq_stop_5917" offset="1" stop-color="#ff6600"/>
+  </linearGradient>
+ </defs>
+</svg>
