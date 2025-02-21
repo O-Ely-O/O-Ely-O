@@ -38,7 +38,7 @@ I’m an Azure Data Engineer Associate specializing in cloud technologies, data 
     </td>
     <td width="50%" align="center" style="border: none;">
       <img src="https://d29g4g2dyqv443.cloudfront.net/sites/default/files/akamai/embedded/images/jetsonNX/embedded-jetson-xavier-nx-devKit-diagrammed-image-v2.jpg" 
-           alt="Jetson Xavier NX" width="640" height="365" class="shrinkToFit">
+           alt="Jetson Xavier NX" width="640" height="340" class="shrinkToFit">
     </td>
   </tr>
 </table>
