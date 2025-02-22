@@ -11,7 +11,7 @@
 </div>
 <!--Introduction -->
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=550&height=70&duration=4000&letterSpacing=2px&lines=Hi+There!+;+I'm+James!+👋;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=34&center=true&vCenter=true&width=550&height=70&duration=4000&letterSpacing=2px&lines=Hey+There!+;+I'm+James!+👋;" />
 </h1>
 
 I’m an Azure Data Engineer Associate specializing in cloud technologies, data engineering, and scalable data pipelines on Microsoft Azure. 💻 I love coding in Python 🐍, experimenting with new technologies, and building side projects ✨. Passionate about leveraging data for impactful solutions, I’m constantly learning and exploring AI and machine learning to solve complex problems. 🚀 Let’s connect and build something awesome!
@@ -23,7 +23,7 @@ I’m an Azure Data Engineer Associate specializing in cloud technologies, data 
 - 🐝 I'm looking to get more familiar with GCP, AWS ecosystems
 - :musical_note: I love to listen music.
 
-### Current Project
+### Current Project:
 <table align="center" style="border: none; padding: 10px;">
   <tr>
     <td width="50%" align="left" style="border: none;">
