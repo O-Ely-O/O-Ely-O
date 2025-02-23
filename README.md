@@ -26,7 +26,7 @@ I’m an Azure Data Engineer Associate specializing in cloud technologies, data 
 ### Current Project:
 <table align="center" style="border: none; padding: 10px;">
   <tr>
-    <td width="65%" align="left" style="border: none;">
+    <td width="55%" align="left" style="border: none;">
       <h2>AI-Powered Object Detection & Pose Estimation</h2>
       <p>Working on real-time human pose estimation, object detection, and instance segmentation using the <strong>Jetson Xavier NX</strong>. The project leverages its AI capabilities to process data locally with minimal latency, enabling smart systems for robotics, surveillance, and automation.</p>
       <ul>
@@ -36,9 +36,9 @@ I’m an Azure Data Engineer Associate specializing in cloud technologies, data 
         <li>⚡ Real-Time Edge AI Inference</li>
       </ul>
     </td>
-    <td width="35%" align="center" style="border: none;">
+    <td width="45%" align="center" style="border: none;">
       <img src="https://d29g4g2dyqv443.cloudfront.net/sites/default/files/akamai/embedded/images/jetsonNX/embedded-jetson-xavier-nx-devKit-diagrammed-image-v2.jpg" 
-           alt="Jetson Xavier NX" width="640" height="300" class="shrinkToFit">
+           alt="Jetson Xavier NX" width="640" height="320" class="shrinkToFit">
     </td>
   </tr>
 </table>
